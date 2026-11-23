@@ -13,8 +13,8 @@ un numero binadio de 4 bits a una salida con 7 segmentos zyxw out 01234567
 
 ## How to test
 
-de7segmentos
+simular el circuito e ingresar numeros binarios de 4 bits
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+display de 7 segmentos

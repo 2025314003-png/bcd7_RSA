@@ -13,7 +13,7 @@ un numero binadio de 4 bits a una salida con 7 segmentos z, y, x, w out 0, 1, 2,
 
 ## How to test
 
-Need a display for 7 segments 
+de 7 segmentos  
 
 ## External hardware
 

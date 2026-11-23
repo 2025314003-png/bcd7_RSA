@@ -9,7 +9,7 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+un numero binadio de 4 bits a una salida con 7 segmentos z, y, x, w out 0, 1, 2, 3, 4, 5, 6
 
 ## How to test
 

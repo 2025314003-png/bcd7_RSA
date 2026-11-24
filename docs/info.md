@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-un numero binadio de 4 bits a una salida con 7 segmentos zyxw out 01234567
+run with zyxw out 01234567
 
 ## How to test
 
-simular el circuito e ingresar numeros binarios de 4 bits
+simulate a counter of 4 bits
 
 ## External hardware
 
-display de 7 segmentos
+display of 7 segments
